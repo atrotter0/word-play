@@ -19,7 +19,7 @@ Enter a word to turn it into gibberish! Built with JS, jQuery, and Bootstrap.
 
 * HTML
 * CSS
-* Bootstrap v3.3.7
+* Bootstrap v4.1.1
 * JavaScript
 * jQuery v3.3.1
 

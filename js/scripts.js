@@ -13,6 +13,7 @@ $(document).ready(function() {
   $("#submit").click(function(e) {
     e.preventDefault();
 
+    $(".output-block").show();
     var input = $("#sentence").val();
     createGibberish(input);
   });
